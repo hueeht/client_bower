@@ -1,0 +1,14 @@
+{
+  "name": "jtv-menu",
+  "homepage": "https://github.com/hoanghuetm/jtv-mobile-menu",
+  "_release": "cfa3492f0f",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "cfa3492f0fafdd75699339e2bf1ace0a0b605a07"
+  },
+  "_source": "https://github.com/hoanghuetm/jtv-mobile-menu.git",
+  "_target": "*",
+  "_originalSource": "jtv-menu",
+  "_direct": true
+}

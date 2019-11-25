@@ -1,0 +1,14 @@
+{
+  "name": "slider-rev",
+  "homepage": "https://github.com/hoanghuetm/rev-slider",
+  "_release": "56f28a5dcd",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "56f28a5dcd167e7a930ccaab3ab36248e8756d4f"
+  },
+  "_source": "https://github.com/hoanghuetm/rev-slider.git",
+  "_target": "*",
+  "_originalSource": "slider-rev",
+  "_direct": true
+}
